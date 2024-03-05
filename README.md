@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semamehmetcik&show_icons=true&locale=en" alt="semamehmetcik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semamehmetcik&" alt="semamehmetcik" /></p>
+
+
+![snake gif](https://github.com/semamehmetcik/semamehmetcik/blob/output/github-contribution-grid-snake.gif)
