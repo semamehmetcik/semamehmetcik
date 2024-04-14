@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sema Mehmetçik</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<h3 align="center">A passionate full stack development from Turkey</h3>
 
 - 🔭 I’m currently working on **React**
 
